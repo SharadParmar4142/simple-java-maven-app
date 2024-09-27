@@ -17,6 +17,8 @@ the "Deliver" stage of your Pipeline.
 
 How To Run::
 1. Create a VM(preferably AWS) install java, jenkins and docker
+\n
+Install java::
 sudo apt update
 sudo apt install openjdk-17-jre
 
